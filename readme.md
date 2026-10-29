@@ -74,22 +74,22 @@ The following screenshots document the completed configuration.
 ![Host system specifications](host-system_specification.png)
 
 **Figure 2. VirtualBox Manager showing the running Kali Linux VM**
-![VirtualBox Manager](Virtual Box with Kali VM.png)
+![VirtualBox Manager](Virtual_Box_with_Kali_VM..png)
 
 **Figure 3. Kali Linux desktop running within VirtualBox**
-![Kali Linux virtual machine](kali linux Desktop.png)
+![Kali Linux virtual machine](kali_linux_Desktop.png)
 
 **Figure 4. Static IPv4 configuration in NetworkManager (`10.0.0.2/24`, gateway `10.0.0.1`)**
-![Static IPv4 configuration](Static IP config.png)
+![Static IPv4 configuration](Static_IP_config.png)
 
 **Figure 5. Internet connectivity verification via Firefox**
-![Internet connectivity verification](Internet Connection Verified.png)
+![Internet connectivity verification](Internet_Connection_Verified.png)
 
 ## 5. Implementation Procedure
 
 ### Step 1: Install Required Software
 
-- Installed 7-Zip to extract the Kali Linux `.7z` archive.
+- Installed WinRar to extract the Kali Linux `.7z` archive.
 - Installed Oracle VM VirtualBox as the hypervisor.
 
 ### Step 2: Create the NAT Network
